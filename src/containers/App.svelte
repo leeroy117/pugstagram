@@ -3,7 +3,7 @@
     import Header from "../components/Header.svelte";
     import Main from "../components/Main.svelte";
     import TimeLine from "../components/TimeLine.svelte";
-    import Sidebar from "../components/SideBar.svelte";
+    import Sidebar from "../components/Sidebar.svelte";
 
     let data = {};
     const API = "https://us-central1-pugstagram-co.cloudfunctions.net/data";
